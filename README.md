@@ -30,6 +30,8 @@ This project investigates forest fires in Montesinho Park, Portugal, using explo
 - **Temperature and Burned Area Relationship:**  
   A two-sample t-test comparing August and December showed **no statistically significant difference** in average burned area between these months.  
   This result suggests that temperature alone may not be sufficient to explain variations in burned area.
+  These findings highlight the importance of combining exploratory analysis with appropriate inferential methods, especially when statistical assumptions are violated.
+
 
 ## Tools
 - R  
